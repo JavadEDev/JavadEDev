@@ -44,6 +44,6 @@ In my free time, I enjoy:
 - 🧘 Meditating to maintain a balanced mindset.
 - 📚 Reading books to expand my knowledge.
 
-##  📫 **How to reach me**: [Email me](mailto:Javad.esmati@gmail..com) or connect on [LinkedIn](https://www.linkedin.com/in/javadesmatib).
+##  📫 **How to reach me**: [Email me](mailto:Javad.esmati@gmail..com) or connect on [LinkedIn](https://www.linkedin.com/in/javadesmatib), or visit my [portfolio site](http://www.javadesmati.name).
 
 
