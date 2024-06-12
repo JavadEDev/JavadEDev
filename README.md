@@ -30,12 +30,10 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
 </details>
 
+## What I Do
 - I am continually enhancing my skills in web development.
 - I work remotely and consistently aim to deliver high-quality code and exceptional user experiences.
-
-## What I Do
-
-I create web applications with a focus on user experience and performance.
+- I create web applications with a focus on user experience and performance.
 
 ## Hobbies and Interests
 
