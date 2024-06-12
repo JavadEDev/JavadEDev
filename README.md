@@ -41,9 +41,17 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 - 👯 **I’m looking to collaborate on**: Open-source React/Next projects and innovative web development tools.
 - 🤔 **I’m looking for help with**: Optimizing performance in large-scale React/Next applications.
 - 💬 **Ask me about**: Frontend development, React/Next ecosystems.
-- 
-## Hobbies and Interests
 
+  ## GitHub Stats
+
+![Javad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javad-eb&show_icons=true&theme=radical)
+
+## GitHub Streak
+
+![Javad's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javad-eb&theme=radical)
+
+
+## Hobbies and Interests
 In my free time, I enjoy:
 - 💪 Bodybuilding and staying fit at the gym.
 - 🧘 Meditating to maintain a balanced mindset.
