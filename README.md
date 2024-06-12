@@ -29,6 +29,10 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
 </details>
+<details><summary><b>My GitHub Stats and Streak</b></summary>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=javad-eb&show_icons=true&show_icons=true&theme=transparent" alt="GitHub Stats"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=javad-eb&show_icons=true&theme=transparent" alt="GitHub Streak"/></p>  
+</details>
 
 ## What I Do
 - I am continually enhancing my skills in web development.
@@ -41,15 +45,6 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 - 👯 **I’m looking to collaborate on**: Open-source React/Next projects and innovative web development tools.
 - 🤔 **I’m looking for help with**: Optimizing performance in large-scale React/Next applications.
 - 💬 **Ask me about**: Frontend development, React/Next ecosystems.
-
-  ## GitHub Stats
-
-![Javad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javad-eb&show_icons=true&show_icons=true&theme=transparent)
-
-## GitHub Streak
-
-![Javad's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javad-eb&theme=radical)
-
 
 ## Hobbies and Interests
 In my free time, I enjoy:
