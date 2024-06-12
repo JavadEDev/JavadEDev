@@ -34,7 +34,7 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=javad-eb&show_icons=true&theme=transparent" alt="GitHub Streak"/></p>  
 </details>
 <details><summary><b>My GitHub Trophy Collection</b></summary>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=javad-eb&column=4&title=MultipleLang,Organizations,Repositories,Commits,Followers,PullRequest,Stars,Issues&show_icons=true&theme=transparent&no-frame=true" alt="GitHub Trophy Collection"/></p>  
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=javad-eb&column=4&title=MultipleLang,Organizations,Repositories,Commits,Followers,PullRequest,Stars,Issues&show_icons=true&theme=transparent" alt="GitHub Trophy Collection"/></p>  
 </details>
 
 ## What I Do
