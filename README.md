@@ -33,7 +33,9 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=javad-eb&show_icons=true&show_icons=true&theme=transparent" alt="GitHub Stats"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=javad-eb&show_icons=true&theme=transparent" alt="GitHub Streak"/></p>  
 </details>
-
+<details><summary><b>My GitHub Trophy Collection</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=javad-eb&show_icons=true&theme=transparent](https://github-profile-trophy.vercel.app/?username=javad-eb&show_icons=true&theme=transparent" alt="GitHub Trophy Collection"/></p>  
+</details>
 ## What I Do
 - I am continually enhancing my skills in web development.
 - I work remotely and consistently aim to deliver high-quality code and exceptional user experiences.
