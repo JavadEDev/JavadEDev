@@ -44,7 +44,7 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 
   ## GitHub Stats
 
-![Javad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javad-eb&show_icons=true&theme=radical)
+![Javad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javad-eb&show_icons=true&show_icons=true&theme=transparent)
 
 ## GitHub Streak
 
