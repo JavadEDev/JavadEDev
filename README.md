@@ -2,8 +2,8 @@
 
 I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about coding and love working with various web technologies. Here are some things you should know about me:
 
--  I work with
- -   <details><summary><b>Languages</b></summary>
+<b>I work with</b>
+<details><summary><b>Languages</b></summary>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
