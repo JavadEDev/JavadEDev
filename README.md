@@ -34,12 +34,17 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 - I am continually enhancing my skills in web development.
 - I work remotely and consistently aim to deliver high-quality code and exceptional user experiences.
 - I create web applications with a focus on user experience and performance.
-
+  
+## Current Activities
+- 🔭 **I’m currently working on**: An Instagram clone using Next.js and Tailwind CSS.
+- 🌱 **I’m currently learning**: Advanced TypeScript techniques and GraphQL.
+- 👯 **I’m looking to collaborate on**: Open-source React/Next projects and innovative web development tools.
+- 🤔 **I’m looking for help with**: Optimizing performance in large-scale React/Next applications.
+- 💬 **Ask me about**: Frontend development, React/Next ecosystems.
+- 
 ## Hobbies and Interests
 
 In my free time, I enjoy:
-
-- 🎿 Skiing on the slopes.
 - 💪 Bodybuilding and staying fit at the gym.
 - 🧘 Meditating to maintain a balanced mindset.
 - 📚 Reading books to expand my knowledge.
