@@ -43,8 +43,8 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 - I create web applications with a focus on user experience and performance.
   
 ## Current Activities
-- 🔭 **I’m currently working on**: Realtime chat app using Nodejs and Socketio.
-- 🌱 **I’m currently learning**: Advanced PostgreSQL database.
+- 🔭 **I’m currently working on**: Learning Docker and Containers.
+- 🌱 **I’m currently learning**: Docker & Containers.
 - 👯 **I’m looking to collaborate on**: Open-source React/Next projects and innovative web development tools.
 - 🤔 **I’m looking for help with**: Optimizing performance in large-scale React/Next applications.
 - 💬 **Ask me about**: Frontend development, React/Next ecosystems.
