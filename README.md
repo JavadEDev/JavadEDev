@@ -27,6 +27,18 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=apollographql&logoColor=white" alt="Apollo Client"/>
 </details>
 
+<details><summary><b>Database Management</b></summary>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=sql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+</details>
+
+<details><summary><b>Version Control</b></summary>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0A9EDC?style=flat-square&logo=continuous-integration&logoColor=white" alt="CI/CD"/>
+</details>
+
 <details><summary><b>Testing</b></summary>
 <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white" alt="React_Testing_Library"/>
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
@@ -46,8 +58,8 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 - I create web applications with a focus on user experience and performance.
   
 ## Current Activities
-- 🔭 **I’m currently working on**: Learning Docker and Containers.
-- 🌱 **I’m currently learning**: Docker & Containers.
+- 🔭 **I’m currently working on**: Learning CD/CI.
+- 🌱 **I’m currently learning**: CI/CD (Gitlab CI, Runners, Gitlab Registry, Gitlab Pipeline)
 - 👯 **I’m looking to collaborate on**: Open-source React/Next projects and innovative web development tools.
 - 🤔 **I’m looking for help with**: Optimizing performance in large-scale React/Next applications.
 - 💬 **Ask me about**: Frontend development, React/Next ecosystems.
