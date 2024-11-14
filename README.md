@@ -11,13 +11,29 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </details>
 
-<details><summary><b>Frontend Frameworks and Libraries</b></summary>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next"/>
+<details><summary><b>Frameworks, Platforms & Liberaries</b></summary>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next"/>
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux-Toolkit"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React-Router"/>
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="React-Query"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React-Router"/>
+<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" alt="React-Query"/>
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white" alt="Chakra"/>
+<img src="https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white" alt="DaisyUI"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+<img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=flat&logo=jasmine&logoColor=white" alt="Jasmine"/>
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white" alt="NPM"/>
+<img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt="Socket.io"/>
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" alt="SASS"/>
+<img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled Components"/>
+<img src="https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white" alt="Three js"/>
+<img src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=flat" alt="Type-graphql"/>
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite"/>
+<img src="" alt="Webpack"/>
+<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black" alt="2"/>
 </details>
 
 <details><summary><b>Backend Frameworks</b></summary>
