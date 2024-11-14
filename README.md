@@ -79,7 +79,7 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <details><summary><b>My GitHub Trophy Collection</b></summary>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=javadedev&column=4&title=MultipleLang,Organizations,Repositories,Commits,Followers,PullRequest,Stars,Issues&show_icons=true&theme=transparent&no-bg=true" alt="GitHub Trophy Collection"/></p>  
 </details>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavadEDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## What I Do
 - I am continually enhancing my skills in web development.
 - I work remotely and consistently aim to deliver high-quality code and exceptional user experiences.
