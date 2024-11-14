@@ -73,9 +73,9 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 </details>
 
 <details><summary><b>My GitHub Stats and Streak</b></summary>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadEDev&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/></p>  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=javadedev&show_icons=true&show_icons=true&theme=transparent" alt="GitHub Stats"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=javadedev&show_icons=true&theme=transparent" alt="GitHub Streak"/></p>  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadEDev&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/></p>  
 </details>
 <details><summary><b>My GitHub Trophy Collection</b></summary>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=javadedev&column=4&title=MultipleLang,Organizations,Repositories,Commits,Followers,PullRequest,Stars,Issues&show_icons=true&theme=transparent&no-bg=true" alt="GitHub Trophy Collection"/></p>  
