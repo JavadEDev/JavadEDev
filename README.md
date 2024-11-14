@@ -30,6 +30,7 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt="Socket.io"/>
 <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite"/>
 <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black" alt="Webpack"/>
+<img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" alt="ESLint"/>
 </details>
 
 <details><summary><b>Backend Frameworks, Platforms & Liberaries</b></summary>
@@ -39,6 +40,8 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
 <img src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=flat" alt="Type-graphql"/>
 <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=apollographql&logoColor=white" alt="Apollo Client"/>
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
 </details>
 
 <details><summary><b>Database / ORM</b></summary>
@@ -65,9 +68,6 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 </details>
 
 <details><summary><b>Other</b></summary>
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" alt="ESLint"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman****"/>
 <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white" alt="Steam"/>
 <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white" alt="PlayStation Network"/>
 </details>
