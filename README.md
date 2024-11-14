@@ -32,8 +32,7 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <img src="https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white" alt="Three js"/>
 <img src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=flat" alt="Type-graphql"/>
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite"/>
-<img src="" alt="Webpack"/>
-<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black" alt="2"/>
+<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black" alt="Webpack"/>
 </details>
 
 <details><summary><b>Backend Frameworks</b></summary>
