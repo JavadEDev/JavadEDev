@@ -100,6 +100,6 @@ In my free time, I enjoy:
 - 📚 Reading books to expand my knowledge.
 
 ##  📫 **How to reach me**: 
-[Email me](mailto:Javad.esmati@gmail..com) or connect on [[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]](https://www.linkedin.com/in/javadesmatib), or visit my [portfolio site](http://www.javadesmati.name).
+[Email me](mailto:Javad.esmati@gmail..com) or connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javadesmatib), or visit my [Portfolio Website](http://www.javadesmati.name).
 
 
