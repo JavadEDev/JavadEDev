@@ -29,7 +29,7 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white" alt="NPM"/>
 <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt="Socket.io"/>
 <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black" alt="Webpack"/>
+<img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black" alt="Webpack"/>
 </details>
 
 <details><summary><b>Backend Frameworks, Platforms & Liberaries</b></summary>
@@ -41,11 +41,15 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=apollographql&logoColor=white" alt="Apollo Client"/>
 </details>
 
-<details><summary><b>Database Management</b></summary>
+<details><summary><b>Database / ORM</b></summary>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=sql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+  
 </details>
 
 <details><summary><b>Version Control</b></summary>
