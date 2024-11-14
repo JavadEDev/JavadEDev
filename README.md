@@ -47,13 +47,13 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-  
+<img src="https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>  
 </details>
 
 <details><summary><b>Version Control</b></summary>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/CI%2FCD-0A9EDC?style=flat-square&logo=continuous-integration&logoColor=white" alt="CI/CD"/>
 </details>
 
@@ -63,6 +63,15 @@ I'm a Frontend developer based in Kristiansand, Norway. I'm passionate about cod
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
 <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=flat&logo=jasmine&logoColor=white" alt="Jasmine"/>
 </details>
+
+<details><summary><b>Other</b></summary>
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" alt="ESLint"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman****"/>
+<img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white" alt="Steam"/>
+<img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white" alt="PlayStation Network"/>
+</details>
+
 <details><summary><b>My GitHub Stats and Streak</b></summary>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=javadedev&show_icons=true&show_icons=true&theme=transparent" alt="GitHub Stats"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=javadedev&show_icons=true&theme=transparent" alt="GitHub Streak"/></p>  
